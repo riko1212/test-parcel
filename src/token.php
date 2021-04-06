@@ -12,7 +12,7 @@ $email = $_POST['user_email'];
 $token = "1788769774:AAGk8jcs0zjFYkMW7aCM6SbTXK6HqSorMNI";
  
 //нужна вставить chat_id (Как получить chad id, читайте ниже)
-$chat_id = "https://api.telegram.org/1788769774:AAGk8jcs0zjFYkMW7aCM6SbTXK6HqSorMNI/getUpdates";
+$chat_id = "-590295676";
  
 //Далее создаем переменную, в которую помещаем PHP массив
 $arr = array(
